@@ -34,6 +34,17 @@
 　
 
 　
+## 진행 프로세스
+1. GIT CMD 맛보기
+2. GitHub 레포지토리 생성
+3. gitignore 작성
+4. SourceTree에서 오리진 레포지토리 클론
+5. 간단한 작업 with README.md
+6. 풀 - 커밋 - 푸쉬
+7. 협업 해보기
+8. 무조건 쓰게끔 강조하기
+
+　
 ## 레퍼런스
 ##### 필수
  - git 간편 안내서 : https://rogerdudler.github.io/git-guide/index.ko.html
