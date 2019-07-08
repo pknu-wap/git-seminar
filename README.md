@@ -63,7 +63,7 @@
 ( 이후 1번부터 다시 반복)
 ---
 #### 작업물에 문제가 발생했을 때
-제가 보여드리지 못했던 현재의 상태를 과거의 상태로 되돌리고 싶을 때 관련된 자료입니다. 
+제가 보여드리지 못했던 현재의 상태를 과거의 상태로 되돌리고 싶을 때 관련된 자료입니다.
 - revert : https://gangju.tistory.com/21
 - reset : https://gangju.tistory.com/20
 ```
@@ -94,7 +94,7 @@
 
 　
 
-　
+## ForkTest by JoByeongcheol
 
 　
 
